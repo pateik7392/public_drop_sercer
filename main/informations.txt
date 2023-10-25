@@ -1,8 +1,9 @@
 Welcome!
-This is my repository for programs.
+This is my repository for programs and scrypts. 
 
 It's a freely available open-source repository for everyone.
 
+File types:
 file type: ,sh (shell script) for linux users
 file type: .bat (batch) for windows users 
 
