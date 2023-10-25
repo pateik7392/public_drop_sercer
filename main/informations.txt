@@ -3,4 +3,7 @@ This is my repository for programs.
 
 It's a freely available open-source repository for everyone.
 
+file type: ,sh (shell script) for linux users
+file type: .bat (batch) for windows users 
+
 have fun :)
