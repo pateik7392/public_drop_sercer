@@ -9,5 +9,6 @@ file type: .bat (batch) for windows users
 
 leaguages
 english (primary leaguage)
+czech (secundary leaguage)
 
 have fun :)
