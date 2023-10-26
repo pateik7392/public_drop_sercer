@@ -1,14 +1,14 @@
 Welcome!
-This is my repository for programs and scrypts. 
+This is my repository for programs, games and scripts.
 
 It's a freely available open-source repository for everyone.
 
 File types:
-file type: .sh (shell script) for linux users
-file type: .bat (batch) for windows users 
+File type: .sh (shell script) for Linux users.
+File type: .bat (batch) for Windows users.
 
-leaguages
-english (primary leaguage)
-czech (secundary leaguage)
+Languages:
+English (primary language)
+Czech (secondary language)
 
-have fun :)
+Have fun! :)
