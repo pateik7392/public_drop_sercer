@@ -7,4 +7,7 @@ File types:
 file type: .sh (shell script) for linux users
 file type: .bat (batch) for windows users 
 
+leaguages
+english (primary leaguage)
+
 have fun :)
