@@ -1,5 +1,6 @@
 Welcome!
 This is my repository for programs, games and scripts.
+I've recently started working on Windows scripts as well.
 
 It's a freely available open-source repository for everyone.
 
