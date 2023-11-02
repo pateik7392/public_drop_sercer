@@ -1,11 +1,8 @@
-version 1.2.3
+version 1.2.4.1
 
 addeds:
-1. added pc_info.bat
-2. added pc_info.sh
-3. added guss_the_number.bat
-4. added guss_the_number.sh
 
 changes:
 
 remoces:
+removed czechia
