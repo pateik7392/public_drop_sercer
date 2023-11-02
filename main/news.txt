@@ -1,11 +1,13 @@
-version 1.1.4
+version 1.2.2
 
 addeds:
-1. added "numbers.bat"
-2. added unsapported folder
-3. added unsapported list in the main
-4. added " changes and remoces" 
+1. added colorpallete.sh
+2. added colorpallete.bat
+3. added "new" folders
+4. added repairpixels.bat
 
 changes:
+1. renamed "unsapported" to "unsapported.txt"
+2. updated infotmations.txt
 
 remoces:

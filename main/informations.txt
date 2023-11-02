@@ -5,8 +5,9 @@ I've recently started working on Windows scripts as well.
 It's a freely available open-source repository for everyone.
 
 File types:
-File type: .sh (shell script) for Linux users.
-File type: .bat (batch) for Windows users.
+File type: .sh (shell) Designed for Linux users.
+File type: .bat (batch) Designed for Windows users.
+file type: .txt (text documenz) Universally accessible on all platforms.
 
 Languages:
 English (primary language)
