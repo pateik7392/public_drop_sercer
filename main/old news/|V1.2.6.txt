@@ -1,0 +1,15 @@
+Version 1.2.6 Release Notes:
+
+Additions:
+1. added notifications folder
+2. added file this folder is empty
+3. added old news folder
+
+Fixes:
+No fixes were found in this release.
+
+Changes:
+No changes were found in this release
+
+Removals:
+No removals were found in this release.
