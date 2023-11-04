@@ -1,16 +1,10 @@
-Welcome!
-This is my repository for programs, games and scripts.
-I've recently started working on Windows scripts as well.
+Welcome to your repository for programs, games, and scripts! This open-source repository offers a variety of file types and languages, making it accessible to a wide audience. Here's a brief overview of your repository:
 
-It's a freely available open-source repository for everyone.
-
-File types:
-File type: .sh (shell) Designed for Linux users.
-File type: .bat (batch) Designed for Windows users.
-file type: .txt (text documenz) Universally accessible on all platforms.
+File Types:
+.sh (shell): These files are designed for Linux users and typically contain shell scripts that can be executed in a Unix-like environment.
+.bat (batch): .bat files are tailored for Windows users and often contain batch scripts that can be executed in the Windows Command Prompt.
+.txt (text document): Text documents are universally accessible on all platforms and can contain a wide range of information, making them versatile for documentation and instructions.
 
 Languages:
-English (primary language)
-Czech (secondary language)
-
-Have fun! :)
+English (primary language): The primary language of your repository is English, which is widely understood and used worldwide.
+Czech (secondary language): Czech is the secondary language, providing accessibility to users who speak or prefer this language.

@@ -1,8 +1,18 @@
-version 1.2.4.1
+Version 1.2.5 Release Notes:
 
-addeds:
+Additions:
+1. Added "timer.bat".
+2. Added "timer.sh".
+3. Added "clock.bat".
+4. Made fixes in the news section.
+5. Added information on "unsupported."
 
-changes:
+Fixes:
+No fixes were found in this release.
 
-remoces:
-removed czechia
+Changes:
+1. The file "informations.txt" has been completely remade.
+2. The file "news.txt" has been completely remade.
+
+Removals:
+No removals were found in this release.
