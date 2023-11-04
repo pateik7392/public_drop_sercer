@@ -1,18 +1,15 @@
-Version 1.2.5 Release Notes:
+Version 1.2.6 Release Notes:
 
 Additions:
-1. Added "timer.bat".
-2. Added "timer.sh".
-3. Added "clock.bat".
-4. Made fixes in the news section.
-5. Added information on "unsupported."
+1. added notifications folder
+2. added file this folder is empty
+3. added old news folder
 
 Fixes:
 No fixes were found in this release.
 
 Changes:
-1. The file "informations.txt" has been completely remade.
-2. The file "news.txt" has been completely remade.
+No changes were found in this release
 
 Removals:
 No removals were found in this release.
