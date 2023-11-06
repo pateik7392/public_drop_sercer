@@ -1,6 +1,8 @@
+update date 11.6.2023
 Version 1.3.0 Release Notes:
 
 Additions:
+part 1
 1. added Guess the Number.sh
 2. added Rock, Paper, Scissors.sh
 3. added Rock, Paper, Scissors.bat
@@ -10,12 +12,24 @@ Additions:
 7. added randomnumbergen.bat
 8. added randomnumbergen.sh
 9. added Random Quote Generator.sh
+part 2
+1. added news main folder
+2. update date in news
+3. new programing leaguage python
+4. added stopwatch.py
+5. added czech game (textová adventura.bat)
+6. added .file types in unsapported list
+7. added os_info.py
+
 
 Fixes:
 No fixes were found in this release.
 
 Changes:
-No changes were found in this release
+1. timer.bat updated
 
 Removals:
+part 1
 1. removed colorpallete.bat
+part 2
+1. removed news folders

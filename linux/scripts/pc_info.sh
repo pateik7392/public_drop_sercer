@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "file version 1.0)"
 echo "Computer Information (Linux)"
 echo "----------------------------"
 echo "Hostname: $(hostname)"

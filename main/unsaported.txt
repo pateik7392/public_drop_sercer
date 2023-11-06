@@ -1,5 +1,6 @@
 linux unsapported programs and scripts:
-1. calculator
+1. calculator.sh
 
 windows unsapported programs and scripts:
-1. snake
+1. snake.bat
+2. numbers.bat

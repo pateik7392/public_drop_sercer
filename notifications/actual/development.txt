@@ -1,4 +1,3 @@
 We're glad that you're here. We would like to inform you that development for Linux has been indefinitely suspended. We ourselves do not know for how long, but we will strive to make it as short as possible.
-the day tommarow
 
 tean public_drop_server

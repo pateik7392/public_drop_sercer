@@ -1,28 +1,28 @@
 @echo off
 setlocal enabledelayedexpansion
 
-rem Set the duration of the timer in seconds
+rem Nastavte délku časovače v sekundách
 set "duration=60"
 
-echo Timer starts with a duration of %duration% seconds.
+echo Časovač začíná s délkou %duration% sekund.
 
-rem Calculate the current time
-set /a "minutes=!duration! / 60"
-set /a "seconds=!duration! %% 60"
+rem Vypočítat aktuální čas
+set /a "minuty=!duration! / 60"
+set /a "sekundy=!duration! %% 60"
 
-echo Timer: !minutes! minutes !seconds! seconds
+echo Časovač: !minuty! minut !sekundy! sekund
 
 :countdown
 if "!duration!" leq "0" goto :end
 
 set /a "duration-=1"
-set /a "minutes=!duration! / 60"
-set /a "seconds=!duration! %% 60"
+set /a "minuty=!duration! / 60"
+set /a "sekundy=!duration! %% 60"
 
-echo Timer: !minutes! minutes !seconds! seconds
+echo Časovač: !minuty! minut !sekundy! sekund
 timeout /t 1 /nobreak >nul
 goto :countdown
 
 :end
-echo Timer has ended!
+echo Časovač skončil!
 pause
