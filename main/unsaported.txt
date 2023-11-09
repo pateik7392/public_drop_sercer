@@ -1,6 +1,9 @@
 linux unsapported programs and scripts:
 1. calculator.sh
+2. timer.sh
+3. random qzste generator.sh
 
 windows unsapported programs and scripts:
 1. snake.bat
 2. numbers.bat
+3. calculator.bat
