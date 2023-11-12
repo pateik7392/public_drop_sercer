@@ -1,0 +1,15 @@
+update date 11.12.2023
+Version 1.3.2.1 Release Notes:
+
+Additions:
+no additions on this release
+
+removes:
+no removes is this release
+
+updates:
+1. news has renamed to release Notes
+2. changelog is now a see new folders "old releases"
+
+unsapported:
+no new unsapported scripts on this release
