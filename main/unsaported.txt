@@ -7,3 +7,4 @@ windows unsapported programs and scripts:
 1. snake.bat
 2. numbers.bat
 3. calculator.bat
+4. timer.bat
