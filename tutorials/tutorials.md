@@ -1,9 +1,18 @@
 # how to run a bash script
 On Windows:
-1. Install a Bash emulator like Git Bash.
-2. Open the Bash emulator.
-3. Navigate to the directory containing your Bash script using the cd command.
-4. Run the script using the following command: bash your_script.sh
+1. open pawer-shell as administrítor
+
+![Local Image](pawershell_openr.jpg)
+
+2. click yes
+
+![Local Image](yes.png)
+
+3. use following command: Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+
+![Local Image](command.webp)
+
+4. type enter
 
 On Ubuntu:
 1. Open the terminal.
