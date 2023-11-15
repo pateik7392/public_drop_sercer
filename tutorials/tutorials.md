@@ -2,15 +2,15 @@
 On Windows:
 1. open pawer-shell as administrítor
 
-![Local Image](pawershell_openr.jpg)
+![Local Image](images/pawershell_openr.jpg)
 
 2. click yes
 
-![Local Image](yes.png)
+![Local Image](images/yes.png)
 
 3. use following command: Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
-![Local Image](command.webp)
+![Local Image](images/command.webp)
 
 4. type enter
 
