@@ -1,4 +1,4 @@
-python is now supported!
+how to run a windows script
 on Windows:
 
 Install Python (if not already installed):
