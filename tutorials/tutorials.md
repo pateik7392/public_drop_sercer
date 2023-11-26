@@ -1,3 +1,6 @@
+
+ TIP: searching the needed help press ctrl + F
+
 # how to run a bash script
 On Windows:
 1. open pawer-shell as administrítor
@@ -29,3 +32,34 @@ Make sure to replace your_script.sh with the actual name of your script. If the 
 2. click open 
 
 ![Local Image](images/open.jpg)
+
+# how to install virtual box
+
+  on linux
+  
+  method 1:
+  1. go to http://virtualbox.org
+
+  ![Local Image](images/virtualbox_web.png)
+  
+  2. click on download
+  3. select a system
+
+  ![Local Image](images/download_page.png)
+
+  4. download virtual box
+  
+   method: 2
+
+   1. open your r´terninal
+   2. type "sudo apt install virtualbox"
+
+   ![Local Image](images/install_virtualbox.jpg)
+
+   3. type enter
+   4. enter your password
+   5. type enter
+   6. type y and enter
+   6. wait to install is completed
+   7. type virtualbox
+  

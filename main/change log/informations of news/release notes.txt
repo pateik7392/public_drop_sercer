@@ -1,0 +1,29 @@
+update date 11.26.2023
+Version 1.4 Release Notes:
+
+Additions:
+1. added folder programs
+2. added folder images
+3. added changes counter
+4. added added folder informations of news
+5. added public_drop_server corporation 2023
+6. added stats
+7. added how to virtualbox (windows comming soon)
+8. added 2 linux scripts and 1 windows script
+
+removes:
+1. removed linux on unsapported
+2. removed windows on unsapported
+
+updates: 
+1. updated (this folder is empty) to (no files find)
+2. renamed "old releses" to "older releases notes"
+3. informations is now displaying not open-source files
+
+unsapported:
+1. pexeso.py
+
+comming soon:
+1. windows tutorial how to install virtualbox
+
+                   public_drop_server corporation 2023
