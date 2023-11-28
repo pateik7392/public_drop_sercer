@@ -1,9 +1,12 @@
 Welcome to your repository for programs, games, and scripts! This open-source repository offers a variety of file types and languages, making it accessible to a wide audience. Here's a brief overview of your repository:
 
 (not opwn-source)
+folders isnt open source: (1)
+1. BETA
+
 fikes isnt open source: (2)
-informations.md
-tutorial.md
+1. informations.md
+2. tutorials.md
 
 # files types
 .sh (shell): These files are designed for Linux users and typically contain shell scripts that can be executed in a Unix-like environment.
@@ -15,3 +18,5 @@ tutorial.md
 # Languages
 English (primary language): The primary language of your repository is English, which is widely understood and used worldwide.
 Czech (secondary language): Czech is the secondary language, providing accessibility to users who speak or prefer this language.
+
+thanks for riding

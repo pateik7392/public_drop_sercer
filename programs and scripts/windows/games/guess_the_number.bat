@@ -4,6 +4,7 @@ setlocal enabledelayedexpansion
 rem Generate a random number between 1 and 100
 set /a "secretNum=%random% %% 100 + 1"
 
+echo version 1.1
 echo Welcome to the Guess the Number game!
 echo I've picked a number between 1 and 100.
 echo Can you guess it?

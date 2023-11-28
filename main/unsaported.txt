@@ -8,3 +8,6 @@ windows unsapported programs and scripts:
 2. numbers.bat
 3. calculator.bat
 4. timer.bat
+
+python progrmas and scripts (.py)
+1. pexeco.bat

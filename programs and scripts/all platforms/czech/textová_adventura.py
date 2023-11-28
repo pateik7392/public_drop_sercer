@@ -1,11 +1,13 @@
 import time
 import random
+import os
 
 coiny = 0  # Přidali jsme proměnnou pro sledování počtu coinů.
 
 lektvar_obra = False
 
 def zacit_hru():
+    print("verze hry 1.2")
     print("Vítejte v textové adventuře!")
     time.sleep(1)
     print("Jste v temném lese. Před sebou vidíte dvě cesty.")
@@ -88,10 +90,11 @@ def cesta_doprava():
                 exit()
             elif "rozmačká" in rozhodnuti:
                 print("Obr byl příliš silný a rozmačkal vás. Konec hry.")
-                exit()
+                end_game()
+
             elif "zašlape" in rozhodnuti:
                 print("Obr vás zašlápl. Konec hry.")
-                exit()
+                end_game()
     elif volba == "2":
         zacit_hru()
     else:
@@ -154,5 +157,16 @@ def obchodnik_obr():
     else:
         print("Neplatná volba. Zkus to znovu.")
         obchodnik_obr()
+
+def end_game
+    if os.name == 'nt': 
+        os.system('cls')
+    else:
+        os.system('clear')
+vycistit_konzoli()
+
+print ("děkujeme za dohrání naší hry")
+ time.sleep(1)
+ exit()
 
 zacit_hru()

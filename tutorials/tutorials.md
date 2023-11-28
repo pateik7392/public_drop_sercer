@@ -59,7 +59,25 @@ Make sure to replace your_script.sh with the actual name of your script. If the 
    3. type enter
    4. enter your password
    5. type enter
-   6. type y and enter
-   6. wait to install is completed
-   7. type virtualbox
+   6. please wait
+   7. type y and enter
+   8. wait to install is completed
+   9. type virtualbox
+   10. create your vm
+   11. select a name and operating system
+   
+    ![Local Image](images/vm.png)
+
+    12. type password product key
+
+     ![Local Image](images/create-vm-2.png.jpg)
+
+    13. set up ram and cpu (recomended 4GB RAM 2 CORES)
   
+   ![Local Image](images/create-vm-3.png)
+
+    14.  sez up virtual hard drive reccomended 64GB space
+
+     ![Local Image](images/create-vm-4.png)
+
+     
