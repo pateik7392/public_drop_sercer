@@ -1,21 +1,6 @@
 update date 11.28.2023
 Version 1.4.1 Release Notes:
 
-addeditionals:
-1. new folder "beta"
-2. added thanks for riding on informations.md
+  this release updates is very very small and no important changes to display
 
-removes:
-1. removed no addetionals and more for news
-
-updates: 
-1. new release nots system
-2. new update in textová dvantura.py
-3. edited informations.md
-4. edited news_advanced.txt
-5. added versions on 5 scripts
-
-comming soon:
-1. windows tutorial how to install virtualbox
-
-                   public_drop_server corporation 2023
+                    public_drop_server corporation 2023
