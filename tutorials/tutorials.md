@@ -66,16 +66,16 @@ Make sure to replace your_script.sh with the actual name of your script. If the 
    10. create your vm
    11. select a name and operating system
    
-    ![Local Image](images/vm.png)
+   ![Local Image](images/vm.png)
 
-    12. type password product key
+   12. type password product key
 
-    ![Local Image](images/create-vm-2.png)
+   ![Local Image](images/create-vm-2.png)
 
-    13. set up ram and cpu (recomended 4GB RAM 2 CORES)
+   13. set up ram and cpu (recomended 4GB RAM 2 CORES)
   
-    ![Local Image](images/create-vm-3.png)
+   ![Local Image](images/create-vm-3.png)
 
-    14.  set up virtual hard drive reccomended 64GB space
+   14.  set up virtual hard drive reccomended 64GB space
 
-     ![Local Image](images/create-vm-4.png)
+   ![Local Image](images/create-vm-4.png)
