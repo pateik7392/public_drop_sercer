@@ -1,6 +1,6 @@
 Welcome to your repository for programs, games, and scripts! This open-source repository offers a variety of file types and languages, making it accessible to a wide audience. Here's a brief overview of your repository:
 
-(not opwn-source)
+(not open-source)
 folders isnt open source: (1)
 1. BETA
 

@@ -79,3 +79,54 @@ Make sure to replace your_script.sh with the actual name of your script. If the 
    14.  set up virtual hard drive reccomended 64GB space
 
    ![Local Image](images/create-vm-4.png)
+
+   # how to install python
+   on windows
+
+   Install Python (if not already installed):
+   1. If you don't have Python installed on your Windows machine, download the latest version of Python from the official Python website (https://www.python.org/downloads/windows/).
+   
+   ![Local Image](images/py_install.png)
+
+   2. Run the installer and make sure to check the option to add Python to your system's PATH during installation.
+
+   ![Local Image](images/python_install.png)
+
+   ![Local Image](images/installation_done.png)
+
+   2. Open Command Prompt:
+      Press Win + R, type "cmd," and press Enter to open the Command Prompt.
+
+     ![local image](images/run.png)
+
+   3. Navigate to the Script Directory:
+      Use the cd command to navigate to the directory where your Python script is located. For example, if your script is in the "Scripts" folder on your desktop, you can use the following command to navigate there: (cd C:\Users\YourUsername\Desktop\Scripts)
+
+      ![local image](images/cmd.png)
+
+    4. Run the Python Script:
+       To execute your Python script, use the following command: python script_name.py
+       Replace script_name.py with the actual name of your Python script.
+
+       ![local image](images/cmd_2.png)
+
+   on linux:
+
+Install Python (if not already installed):
+Most Linux distributions come with Python pre-installed. To check if Python is installed, open a terminal and run the command:
+python --version
+If Python is not installed, you can install it using your distribution's package manager. For example, on Ubuntu, you can run:
+sudo apt-get update
+sudo apt-get install python3
+
+Open Terminal:
+Open a terminal window. You can usually find the terminal in your applications menu.
+
+Navigate to the Script Directory:
+Use the cd command to navigate to the directory where your Python script is located. For example, if your script is in the "Scripts" folder in your home directory, you can use the following command:
+cd ~/Scripts
+
+Run the Python Script:
+To execute your Python script, use the following command:
+python3 script_name.py
+Replace script_name.py with the actual name of your Python script.

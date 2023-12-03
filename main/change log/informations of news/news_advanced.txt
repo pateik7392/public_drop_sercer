@@ -1,11 +1,14 @@
-files changes:     2
-files created:     1
-folders created:   0 
-moved files:       0
-moved folders:     0
-renamed files:     3
-renamed folders:   0
-new notifications: 0
+files changes:     3
+files created:     0
+files deleted:     0
+files moved:       9
+files renamed:     1
+folders deleted:   0
+folders created:   1
+folders moved:     2
+folders renamed:   0
+images added:      6
+new notifications: 1
 
-                        total changes on this rekease: 9
-                        total changes in all releases: 132
+                        total changes on this rekease: 33
+                        total changes in all releases: 164

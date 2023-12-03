@@ -2,6 +2,7 @@ linux unsapported programs and scripts:
 1. calculator.sh
 2. timer.sh
 3. random qzste generator.sh
+4. randomnumbergen.sh
 
 windows unsapported programs and scripts:
 1. snake.bat
@@ -10,4 +11,5 @@ windows unsapported programs and scripts:
 4. timer.bat
 
 python progrmas and scripts (.py)
-1. pexeco.bat
+1. pexeco.py
+2. gues the number.py
