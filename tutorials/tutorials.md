@@ -97,18 +97,18 @@ Make sure to replace your_script.sh with the actual name of your script. If the 
    2. Open Command Prompt:
       Press Win + R, type "cmd," and press Enter to open the Command Prompt.
 
-    ![local image](images/run.png)
+   ![local image](images/run.png)
 
    3. Navigate to the Script Directory:
       Use the cd command to navigate to the directory where your Python script is located. For example, if your script is in the "Scripts" folder on your desktop, you can use the following command to navigate there: (cd C:\Users\YourUsername\Desktop\Scripts)
 
-    ![local image](images/cmd.png)
+   ![local image](images/cmd.png)
 
     4. Run the Python Script:
        To execute your Python script, use the following command: python script_name.py
        Replace script_name.py with the actual name of your Python script.
 
-      ![local image](images/cmd_2.png)
+     ![local image](images/cmd_2.png)
 
    on linux:
 
