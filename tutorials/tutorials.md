@@ -104,9 +104,9 @@ Make sure to replace your_script.sh with the actual name of your script. If the 
 
    ![local image](images/cmd.png)
 
-    4. Run the Python Script:
-       To execute your Python script, use the following command: python script_name.py
-       Replace script_name.py with the actual name of your Python script.
+   4. Run the Python Script:
+      To execute your Python script, use the following command: python script_name.py
+      Replace script_name.py with the actual name of your Python script.
 
    ![local image](images/cmd_2.png)
 
